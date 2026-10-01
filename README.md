@@ -5,8 +5,11 @@ A REFramework plugin that brings your Devil May Cry 5 session to Discord.
 Show current Style ranks in the campaign or pushing through
 Bloody Palace, your status stays in sync with what's on screen.
 
-[images/1.jpg] [images/2.jpg] [images/3.jpg]
-
+<p align="center">
+  <img src="images/1.jpg" width="49%" />
+  <img src="images/2.jpg" width="49%" />
+  <img src="images/3.jpg" width="49%" />
+</p>
 
 Features
 --------
