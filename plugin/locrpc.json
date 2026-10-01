@@ -1,0 +1,652 @@
+{
+  "en": {
+    "players": {
+      "-1": "None",
+      "0": "Nero",
+      "1": "Dante",
+      "2": "V",
+      "3": "Vergil",
+      "4": "Vergil"
+    },
+    "missions": {
+      "0": "PROLOGUE",
+      "1": "Nero",
+      "2": "Qliphoth",
+      "3": "Flying Hunter",
+      "4": "V",
+      "5": "The Devil Sword Sparda",
+      "6": "Steel Impact",
+      "7": "United Front",
+      "8": "Demon King",
+      "9": "Genesis",
+      "10": "Awaken",
+      "11": "Reason",
+      "12": "Yamato",
+      "13": "Three Warriors",
+      "14": "Diverging Point: V",
+      "15": "Diverging Point: Nero",
+      "16": "Diverging Point: Dante",
+      "17": "Brothers",
+      "18": "Awakening",
+      "19": "Vergil",
+      "20": "True Power"
+    },
+    "ranks": {
+      "0": "-",
+      "1": "Dismal",
+      "2": "Crazy",
+      "3": "Badass",
+      "4": "Apocalyptic",
+      "5": "Savage",
+      "6": "Sick Skills",
+      "7": "Smokin' Sexy Style"
+    },
+    "fallback": {
+      "details": "Devil May Cry 5",
+      "large_text": "Devil May Cry 5",
+      "state_battle": "In Battle",
+      "state_explore": "Exploring",
+      "bloody_palace": "Bloody Palace - Floor {floor}"
+    }
+  },
+  "ru": {
+    "players": {
+      "-1": "Нет",
+      "0": "Неро",
+      "1": "Данте",
+      "2": "V",
+      "3": "Вергилий",
+      "4": "Вергилий"
+    },
+    "missions": {
+      "0": "ПРОЛОГ",
+      "1": "Неро",
+      "2": "Клифот",
+      "3": "Летучий охотник",
+      "4": "V",
+      "5": "Дьявольский меч Спарда",
+      "6": "Стальной удар",
+      "7": "Объединённый фронт",
+      "8": "Король демонов",
+      "9": "Бытие",
+      "10": "Пробуждение",
+      "11": "Разум",
+      "12": "Ямато",
+      "13": "Три воина",
+      "14": "Точка расхождения: V",
+      "15": "Точка расхождения: Неро",
+      "16": "Точка расхождения: Данте",
+      "17": "Братья",
+      "18": "Пробуждение",
+      "19": "Вергилий",
+      "20": "Истинная сила"
+    },
+    "ranks": {
+      "0": "-",
+      "1": "Dismal",
+      "2": "Crazy",
+      "3": "Badass",
+      "4": "Apocalyptic",
+      "5": "Savage",
+      "6": "Sick Skills",
+      "7": "Smokin' Sexy Style"
+    },
+    "fallback": {
+      "details": "Devil May Cry 5",
+      "large_text": "Devil May Cry 5",
+      "state_battle": "В бою",
+      "state_explore": "Исследует",
+      "bloody_palace": "Кровавый дворец — Этаж {floor}"
+    }
+  },
+  "ja": {
+    "players": {
+      "-1": "なし",
+      "0": "ネロ",
+      "1": "ダンテ",
+      "2": "V",
+      "3": "バージル",
+      "4": "バージル"
+    },
+    "missions": {
+      "0": "プロローグ",
+      "1": "ネロ",
+      "2": "クリフォト",
+      "3": "空飛ぶ狩人",
+      "4": "V",
+      "5": "魔剣スパーダ",
+      "6": "スチールインパクト",
+      "7": "共闘",
+      "8": "魔王",
+      "9": "創世記",
+      "10": "目覚め",
+      "11": "理由",
+      "12": "閻魔刀",
+      "13": "三人の戦士",
+      "14": "分岐点: V",
+      "15": "分岐点: ネロ",
+      "16": "分岐点: ダンテ",
+      "17": "兄弟",
+      "18": "覚醒",
+      "19": "バージル",
+      "20": "真の力"
+    },
+    "ranks": {
+      "0": "-",
+      "1": "Dismal",
+      "2": "Crazy",
+      "3": "Badass",
+      "4": "Apocalyptic",
+      "5": "Savage",
+      "6": "Sick Skills",
+      "7": "Smokin' Sexy Style"
+    },
+    "fallback": {
+      "details": "Devil May Cry 5",
+      "large_text": "Devil May Cry 5",
+      "state_battle": "戦闘中",
+      "state_explore": "探索中",
+      "bloody_palace": "ブラッディパレス — {floor}階"
+    }
+  },
+  "fr": {
+    "players": {
+      "-1": "Aucun",
+      "0": "Nero",
+      "1": "Dante",
+      "2": "V",
+      "3": "Vergil",
+      "4": "Vergil"
+    },
+    "missions": {
+      "0": "PROLOGUE",
+      "1": "Nero",
+      "2": "Qliphoth",
+      "3": "Chasseur volant",
+      "4": "V",
+      "5": "L'Épée du Diable Sparda",
+      "6": "Impact d'acier",
+      "7": "Front uni",
+      "8": "Roi des démons",
+      "9": "Genèse",
+      "10": "Éveil",
+      "11": "Raison",
+      "12": "Yamato",
+      "13": "Trois guerriers",
+      "14": "Point de divergence : V",
+      "15": "Point de divergence : Nero",
+      "16": "Point de divergence : Dante",
+      "17": "Frères",
+      "18": "Éveil",
+      "19": "Vergil",
+      "20": "Vrai pouvoir"
+    },
+    "ranks": {
+      "0": "-",
+      "1": "Dismal",
+      "2": "Crazy",
+      "3": "Badass",
+      "4": "Apocalyptic",
+      "5": "Savage",
+      "6": "Sick Skills",
+      "7": "Smokin' Sexy Style"
+    },
+    "fallback": {
+      "details": "Devil May Cry 5",
+      "large_text": "Devil May Cry 5",
+      "state_battle": "En combat",
+      "state_explore": "En exploration",
+      "bloody_palace": "Bloody Palace — Étage {floor}"
+    }
+  },
+  "it": {
+    "players": {
+      "-1": "Nessuno",
+      "0": "Nero",
+      "1": "Dante",
+      "2": "V",
+      "3": "Vergil",
+      "4": "Vergil"
+    },
+    "missions": {
+      "0": "PROLOGO",
+      "1": "Nero",
+      "2": "Qliphoth",
+      "3": "Cacciatore volante",
+      "4": "V",
+      "5": "La Spada del Diavolo Sparda",
+      "6": "Impatto d'acciaio",
+      "7": "Fronte unito",
+      "8": "Re dei demoni",
+      "9": "Genesi",
+      "10": "Risveglio",
+      "11": "Ragione",
+      "12": "Yamato",
+      "13": "Tre guerrieri",
+      "14": "Punto di divergenza: V",
+      "15": "Punto di divergenza: Nero",
+      "16": "Punto di divergenza: Dante",
+      "17": "Fratelli",
+      "18": "Risveglio",
+      "19": "Vergil",
+      "20": "Vero potere"
+    },
+    "ranks": {
+      "0": "-",
+      "1": "Dismal",
+      "2": "Crazy",
+      "3": "Badass",
+      "4": "Apocalyptic",
+      "5": "Savage",
+      "6": "Sick Skills",
+      "7": "Smokin' Sexy Style"
+    },
+    "fallback": {
+      "details": "Devil May Cry 5",
+      "large_text": "Devil May Cry 5",
+      "state_battle": "In battaglia",
+      "state_explore": "In esplorazione",
+      "bloody_palace": "Bloody Palace — Piano {floor}"
+    }
+  },
+  "de": {
+    "players": {
+      "-1": "Keiner",
+      "0": "Nero",
+      "1": "Dante",
+      "2": "V",
+      "3": "Vergil",
+      "4": "Vergil"
+    },
+    "missions": {
+      "0": "PROLOG",
+      "1": "Nero",
+      "2": "Qliphoth",
+      "3": "Fliegender Jäger",
+      "4": "V",
+      "5": "Das Teufelsschwert Sparda",
+      "6": "Stahlaufprall",
+      "7": "Vereinte Front",
+      "8": "Dämonenkönig",
+      "9": "Genesis",
+      "10": "Erwachen",
+      "11": "Grund",
+      "12": "Yamato",
+      "13": "Drei Krieger",
+      "14": "Wendepunkt: V",
+      "15": "Wendepunkt: Nero",
+      "16": "Wendepunkt: Dante",
+      "17": "Brüder",
+      "18": "Erwachen",
+      "19": "Vergil",
+      "20": "Wahre Kraft"
+    },
+    "ranks": {
+      "0": "-",
+      "1": "Dismal",
+      "2": "Crazy",
+      "3": "Badass",
+      "4": "Apocalyptic",
+      "5": "Savage",
+      "6": "Sick Skills",
+      "7": "Smokin' Sexy Style"
+    },
+    "fallback": {
+      "details": "Devil May Cry 5",
+      "large_text": "Devil May Cry 5",
+      "state_battle": "Im Kampf",
+      "state_explore": "Auf Erkundung",
+      "bloody_palace": "Bloody Palace — Etage {floor}"
+    }
+  },
+  "es": {
+    "players": {
+      "-1": "Ninguno",
+      "0": "Nero",
+      "1": "Dante",
+      "2": "V",
+      "3": "Vergil",
+      "4": "Vergil"
+    },
+    "missions": {
+      "0": "PRÓLOGO",
+      "1": "Nero",
+      "2": "Qliphoth",
+      "3": "Cazador volador",
+      "4": "V",
+      "5": "La Espada del Diablo Sparda",
+      "6": "Impacto de acero",
+      "7": "Frente unido",
+      "8": "Rey demonio",
+      "9": "Génesis",
+      "10": "Despertar",
+      "11": "Razón",
+      "12": "Yamato",
+      "13": "Tres guerreros",
+      "14": "Punto de divergencia: V",
+      "15": "Punto de divergencia: Nero",
+      "16": "Punto de divergencia: Dante",
+      "17": "Hermanos",
+      "18": "Despertar",
+      "19": "Vergil",
+      "20": "Poder verdadero"
+    },
+    "ranks": {
+      "0": "-",
+      "1": "Dismal",
+      "2": "Crazy",
+      "3": "Badass",
+      "4": "Apocalyptic",
+      "5": "Savage",
+      "6": "Sick Skills",
+      "7": "Smokin' Sexy Style"
+    },
+    "fallback": {
+      "details": "Devil May Cry 5",
+      "large_text": "Devil May Cry 5",
+      "state_battle": "En combate",
+      "state_explore": "Explorando",
+      "bloody_palace": "Bloody Palace — Piso {floor}"
+    }
+  },
+  "pl": {
+    "players": {
+      "-1": "Brak",
+      "0": "Nero",
+      "1": "Dante",
+      "2": "V",
+      "3": "Vergil",
+      "4": "Vergil"
+    },
+    "missions": {
+      "0": "PROLOG",
+      "1": "Nero",
+      "2": "Qliphoth",
+      "3": "Latający łowca",
+      "4": "V",
+      "5": "Diabelski Miecz Sparda",
+      "6": "Stalowe uderzenie",
+      "7": "Zjednoczony front",
+      "8": "Król demonów",
+      "9": "Geneza",
+      "10": "Przebudzenie",
+      "11": "Powód",
+      "12": "Yamato",
+      "13": "Trzej wojownicy",
+      "14": "Punkt rozgałęzienia: V",
+      "15": "Punkt rozgałęzienia: Nero",
+      "16": "Punkt rozgałęzienia: Dante",
+      "17": "Bracia",
+      "18": "Przebudzenie",
+      "19": "Vergil",
+      "20": "Prawdziwa moc"
+    },
+    "ranks": {
+      "0": "-",
+      "1": "Dismal",
+      "2": "Crazy",
+      "3": "Badass",
+      "4": "Apocalyptic",
+      "5": "Savage",
+      "6": "Sick Skills",
+      "7": "Smokin' Sexy Style"
+    },
+    "fallback": {
+      "details": "Devil May Cry 5",
+      "large_text": "Devil May Cry 5",
+      "state_battle": "W walce",
+      "state_explore": "Eksploracja",
+      "bloody_palace": "Bloody Palace — Piętro {floor}"
+    }
+  },
+  "pt": {
+    "players": {
+      "-1": "Nenhum",
+      "0": "Nero",
+      "1": "Dante",
+      "2": "V",
+      "3": "Vergil",
+      "4": "Vergil"
+    },
+    "missions": {
+      "0": "PRÓLOGO",
+      "1": "Nero",
+      "2": "Qliphoth",
+      "3": "Caçador voador",
+      "4": "V",
+      "5": "A Espada do Diabo Sparda",
+      "6": "Impacto de aço",
+      "7": "Frente unida",
+      "8": "Rei dos demônios",
+      "9": "Gênese",
+      "10": "Despertar",
+      "11": "Razão",
+      "12": "Yamato",
+      "13": "Três guerreiros",
+      "14": "Ponto de divergência: V",
+      "15": "Ponto de divergência: Nero",
+      "16": "Ponto de divergência: Dante",
+      "17": "Irmãos",
+      "18": "Despertar",
+      "19": "Vergil",
+      "20": "Poder verdadeiro"
+    },
+    "ranks": {
+      "0": "-",
+      "1": "Dismal",
+      "2": "Crazy",
+      "3": "Badass",
+      "4": "Apocalyptic",
+      "5": "Savage",
+      "6": "Sick Skills",
+      "7": "Smokin' Sexy Style"
+    },
+    "fallback": {
+      "details": "Devil May Cry 5",
+      "large_text": "Devil May Cry 5",
+      "state_battle": "Em combate",
+      "state_explore": "Explorando",
+      "bloody_palace": "Bloody Palace — Andar {floor}"
+    }
+  },
+  "pt-BR": {
+    "players": {
+      "-1": "Nenhum",
+      "0": "Nero",
+      "1": "Dante",
+      "2": "V",
+      "3": "Vergil",
+      "4": "Vergil"
+    },
+    "missions": {
+      "0": "PRÓLOGO",
+      "1": "Nero",
+      "2": "Qliphoth",
+      "3": "Caçador voador",
+      "4": "V",
+      "5": "A Espada do Diabo Sparda",
+      "6": "Impacto de aço",
+      "7": "Frente unida",
+      "8": "Rei dos demônios",
+      "9": "Gênese",
+      "10": "Despertar",
+      "11": "Razão",
+      "12": "Yamato",
+      "13": "Três guerreiros",
+      "14": "Ponto de divergência: V",
+      "15": "Ponto de divergência: Nero",
+      "16": "Ponto de divergência: Dante",
+      "17": "Irmãos",
+      "18": "Despertar",
+      "19": "Vergil",
+      "20": "Poder verdadeiro"
+    },
+    "ranks": {
+      "0": "-",
+      "1": "Dismal",
+      "2": "Crazy",
+      "3": "Badass",
+      "4": "Apocalyptic",
+      "5": "Savage",
+      "6": "Sick Skills",
+      "7": "Smokin' Sexy Style"
+    },
+    "fallback": {
+      "details": "Devil May Cry 5",
+      "large_text": "Devil May Cry 5",
+      "state_battle": "Em combate",
+      "state_explore": "Explorando",
+      "bloody_palace": "Bloody Palace — Andar {floor}"
+    }
+  },
+  "ko": {
+    "players": {
+      "-1": "없음",
+      "0": "네로",
+      "1": "단테",
+      "2": "V",
+      "3": "버질",
+      "4": "버질"
+    },
+    "missions": {
+      "0": "프롤로그",
+      "1": "네로",
+      "2": "클리포스",
+      "3": "비행 사냥꾼",
+      "4": "V",
+      "5": "마검 스파다",
+      "6": "강철 충격",
+      "7": "연합 전선",
+      "8": "마왕",
+      "9": "창세기",
+      "10": "각성",
+      "11": "이유",
+      "12": "야마토",
+      "13": "세 전사",
+      "14": "분기점: V",
+      "15": "분기점: 네로",
+      "16": "분기점: 단테",
+      "17": "형제",
+      "18": "각성",
+      "19": "버질",
+      "20": "진정한 힘"
+    },
+    "ranks": {
+      "0": "-",
+      "1": "Dismal",
+      "2": "Crazy",
+      "3": "Badass",
+      "4": "Apocalyptic",
+      "5": "Savage",
+      "6": "Sick Skills",
+      "7": "Smokin' Sexy Style"
+    },
+    "fallback": {
+      "details": "Devil May Cry 5",
+      "large_text": "Devil May Cry 5",
+      "state_battle": "전투 중",
+      "state_explore": "탐험 중",
+      "bloody_palace": "블러디 팰리스 — {floor}층"
+    }
+  },
+  "zh-CN": {
+    "players": {
+      "-1": "无",
+      "0": "尼禄",
+      "1": "但丁",
+      "2": "V",
+      "3": "维吉尔",
+      "4": "维吉尔"
+    },
+    "missions": {
+      "0": "序幕",
+      "1": "尼禄",
+      "2": "克里福特",
+      "3": "飞行猎人",
+      "4": "V",
+      "5": "魔剑斯巴达",
+      "6": "钢铁冲击",
+      "7": "联合前线",
+      "8": "魔王",
+      "9": "创世纪",
+      "10": "觉醒",
+      "11": "理由",
+      "12": "阎魔刀",
+      "13": "三位战士",
+      "14": "分歧点: V",
+      "15": "分歧点: 尼禄",
+      "16": "分歧点: 但丁",
+      "17": "兄弟",
+      "18": "觉醒",
+      "19": "维吉尔",
+      "20": "真正的力量"
+    },
+    "ranks": {
+      "0": "-",
+      "1": "Dismal",
+      "2": "Crazy",
+      "3": "Badass",
+      "4": "Apocalyptic",
+      "5": "Savage",
+      "6": "Sick Skills",
+      "7": "Smokin' Sexy Style"
+    },
+    "fallback": {
+      "details": "Devil May Cry 5",
+      "large_text": "Devil May Cry 5",
+      "state_battle": "战斗中",
+      "state_explore": "探索中",
+      "bloody_palace": "血腥宫殿 — 第{floor}层"
+    }
+  },
+  "zh-TW": {
+    "players": {
+      "-1": "無",
+      "0": "尼祿",
+      "1": "但丁",
+      "2": "V",
+      "3": "維吉爾",
+      "4": "維吉爾"
+    },
+    "missions": {
+      "0": "序幕",
+      "1": "尼祿",
+      "2": "克里福特",
+      "3": "飛行獵人",
+      "4": "V",
+      "5": "魔劍斯巴達",
+      "6": "鋼鐵衝擊",
+      "7": "聯合前線",
+      "8": "魔王",
+      "9": "創世紀",
+      "10": "覺醒",
+      "11": "理由",
+      "12": "閻魔刀",
+      "13": "三位戰士",
+      "14": "分歧點: V",
+      "15": "分歧點: 尼祿",
+      "16": "分歧點: 但丁",
+      "17": "兄弟",
+      "18": "覺醒",
+      "19": "維吉爾",
+      "20": "真正的力量"
+    },
+    "ranks": {
+      "0": "-",
+      "1": "Dismal",
+      "2": "Crazy",
+      "3": "Badass",
+      "4": "Apocalyptic",
+      "5": "Savage",
+      "6": "Sick Skills",
+      "7": "Smokin' Sexy Style"
+    },
+    "fallback": {
+      "details": "Devil May Cry 5",
+      "large_text": "Devil May Cry 5",
+      "state_battle": "戰鬥中",
+      "state_explore": "探索中",
+      "bloody_palace": "血腥宮殿 — 第{floor}層"
+    }
+  }
+}
