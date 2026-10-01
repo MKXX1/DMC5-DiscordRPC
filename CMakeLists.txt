@@ -4,6 +4,7 @@ project(DMC5_DiscordRPC)
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+#REFramework API & Discord-rpc dir
 set(REF_SDK_DIR     "${CMAKE_CURRENT_SOURCE_DIR}/reframework")
 set(DISCORD_RPC_DIR "${CMAKE_CURRENT_SOURCE_DIR}/discord-rpc/win64-static")
 
@@ -14,9 +15,10 @@ add_library(DMC5_DiscordRPC SHARED
 target_include_directories(DMC5_DiscordRPC PRIVATE
     ${REF_SDK_DIR}/include
     ${DISCORD_RPC_DIR}/include
-    ${CMAKE_CURRENT_SOURCE_DIR}/plugin   # для json.hpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/plugin 
 )
 
+# discord-rpc lib
 target_link_libraries(DMC5_DiscordRPC PRIVATE
     ${DISCORD_RPC_DIR}/lib/discord-rpc.lib
     ws2_32
